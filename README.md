@@ -1,7 +1,7 @@
 # GreatEducation
 A simple php project named "GreatEducation". E-Learning place to register and get go through.
 
-BASIC FUNCTIONALITY PROVIDED BY THE APPLICATION. Registration-One should register and wait to login until the request for access to accepted. Login - Once request been accepted and have access.
+BASIC FUNCTIONALITY PROVIDED BY THE APPLICATION. Registration-One should register and wait to login until the request for access to accepted. Login - Once request been accepted and have access.  Registration, Login and Logout flow which will be connected with Database, Contact US Page. Desktop and Mobile Responsive.
 
 Note-
 
