@@ -10,7 +10,7 @@ Note-
 3) Place the project in folder called htdocs after the installation of xampp.
 4) open localhost/phpMyAdmin
 5) Import the database
-6) Get your application running in localhost follwed by project name- localhost/E-Learning
+6) Get your application running in localhost 
 
 ![image](https://user-images.githubusercontent.com/58131830/196831419-3e6d82ba-295e-4015-abab-49ade71bfb80.png)
 ![image](https://user-images.githubusercontent.com/58131830/196831506-8684501e-2c8e-4033-8cdb-7de41aeab949.png)
