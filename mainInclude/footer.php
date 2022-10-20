@@ -1,12 +1,6 @@
  <!-- Start Footer -->
  <footer class="container-fluid bg-dark text-center p-2">
-    <small class="text-white">Copyright &copy; 2019 || Designed By Shantanu Jadoun || <?php   
-          if (isset($_SESSION['is_admin_login'])){
-            echo '<a href="admin/adminDashboard.php"> Admin Dashboard</a> <a href="logout.php">Logout</a>';
-          }else {
-            echo '<a href="#login" data-toggle="modal" data-target="#adminLoginModalCenter"> Admin Login</a>';
-          }
-    ?>
+    <small class="text-white">Copyright &copy; 2019 || Designed By Shantanu Jadoun 
   </small> 
   
  </footer> <!-- End Footer -->
