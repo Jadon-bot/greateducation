@@ -5,12 +5,12 @@ BASIC FUNCTIONALITY PROVIDED BY THE APPLICATION. Registration-One should registe
 
 Note-
 
-Install xamp or wamp to start the server.
-StartApache server and sql.
-Place the project in folder called htdocs after the installation of xamp.
-open localhost/phpMyAdmin
-Import the database
-Get your application running in localhost follwed by project name- localhost/E-Learning
+1) Install xamp or wamp to start the server.
+2) StartApache server and sql.
+3) Place the project in folder called htdocs after the installation of xampp.
+4) open localhost/phpMyAdmin
+5) Import the database
+6) Get your application running in localhost follwed by project name- localhost/E-Learning
 
 ![image](https://user-images.githubusercontent.com/58131830/196831419-3e6d82ba-295e-4015-abab-49ade71bfb80.png)
 ![image](https://user-images.githubusercontent.com/58131830/196831506-8684501e-2c8e-4033-8cdb-7de41aeab949.png)
